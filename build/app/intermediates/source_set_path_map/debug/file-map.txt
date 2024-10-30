@@ -1,0 +1,28 @@
+com.example.quiz.app-jetified-activity-1.8.1-0 C:\Users\solom\.gradle\caches\8.9\transforms\1ad1c1d1c7062871a36a27ed77260251\transformed\jetified-activity-1.8.1\res
+com.example.quiz.app-jetified-profileinstaller-1.3.1-1 C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\res
+com.example.quiz.app-lifecycle-livedata-core-2.7.0-2 C:\Users\solom\.gradle\caches\8.9\transforms\310c399031396c53a9eb4b90fd1eca92\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.quiz.app-core-1.13.1-3 C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\res
+com.example.quiz.app-lifecycle-livedata-2.7.0-4 C:\Users\solom\.gradle\caches\8.9\transforms\607dc0e7c80d904b8a894b77ecdca6af\transformed\lifecycle-livedata-2.7.0\res
+com.example.quiz.app-jetified-window-1.2.0-5 C:\Users\solom\.gradle\caches\8.9\transforms\664ec914514dacc22a654b7cfdb5255f\transformed\jetified-window-1.2.0\res
+com.example.quiz.app-jetified-lifecycle-process-2.7.0-6 C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.quiz.app-jetified-annotation-experimental-1.4.0-7 C:\Users\solom\.gradle\caches\8.9\transforms\8ab5b59951b2211536ef1227486382d5\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.quiz.app-core-runtime-2.2.0-8 C:\Users\solom\.gradle\caches\8.9\transforms\af710c0619af9aaa5cfa6611a56b3a6e\transformed\core-runtime-2.2.0\res
+com.example.quiz.app-lifecycle-viewmodel-2.7.0-9 C:\Users\solom\.gradle\caches\8.9\transforms\b7165d74acd9d46555ba7c629e448232\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.quiz.app-fragment-1.7.1-10 C:\Users\solom\.gradle\caches\8.9\transforms\b928dd398df4ff2553c4a1a9022400b2\transformed\fragment-1.7.1\res
+com.example.quiz.app-lifecycle-runtime-2.7.0-11 C:\Users\solom\.gradle\caches\8.9\transforms\c14a1feef8bc0f09de798ef62f299a7d\transformed\lifecycle-runtime-2.7.0\res
+com.example.quiz.app-jetified-window-java-1.2.0-12 C:\Users\solom\.gradle\caches\8.9\transforms\c46bb059665fe9c25fd2c4cbb0f6c10a\transformed\jetified-window-java-1.2.0\res
+com.example.quiz.app-jetified-core-ktx-1.13.1-13 C:\Users\solom\.gradle\caches\8.9\transforms\c60a5616419fd7dfd9f3ea268e7590d3\transformed\jetified-core-ktx-1.13.1\res
+com.example.quiz.app-jetified-startup-runtime-1.1.1-14 C:\Users\solom\.gradle\caches\8.9\transforms\cc8198d597b3f5152a198249b46fd0ef\transformed\jetified-startup-runtime-1.1.1\res
+com.example.quiz.app-jetified-core-1.0.0-15 C:\Users\solom\.gradle\caches\8.9\transforms\ccd694ee04948b861a0eb90f51640574\transformed\jetified-core-1.0.0\res
+com.example.quiz.app-jetified-savedstate-1.2.1-16 C:\Users\solom\.gradle\caches\8.9\transforms\e8bdcbc2dc47a7423eb08266beac44e1\transformed\jetified-savedstate-1.2.1\res
+com.example.quiz.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-17 C:\Users\solom\.gradle\caches\8.9\transforms\f3ef114a4b40c06219c3195314cedcb0\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.quiz.app-jetified-tracing-1.2.0-18 C:\Users\solom\.gradle\caches\8.9\transforms\fc092251d55b5e00a4919750033c0349\transformed\jetified-tracing-1.2.0\res
+com.example.quiz.app-jetified-lifecycle-livedata-core-ktx-2.7.0-19 C:\Users\solom\.gradle\caches\8.9\transforms\fcd03c84ff3a52e22d096db8f80caa4b\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.quiz.app-debug-20 C:\Users\solom\flutter project\quiz\android\app\src\debug\res
+com.example.quiz.app-main-21 C:\Users\solom\flutter project\quiz\android\app\src\main\res
+com.example.quiz.app-pngs-22 C:\Users\solom\flutter project\quiz\build\app\generated\res\pngs\debug
+com.example.quiz.app-resValues-23 C:\Users\solom\flutter project\quiz\build\app\generated\res\resValues\debug
+com.example.quiz.app-rs-24 C:\Users\solom\flutter project\quiz\build\app\generated\res\rs\debug
+com.example.quiz.app-mergeDebugResources-25 C:\Users\solom\flutter project\quiz\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.quiz.app-mergeDebugResources-26 C:\Users\solom\flutter project\quiz\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.quiz.app-merged_res-27 C:\Users\solom\flutter project\quiz\build\app\intermediates\merged_res\debug

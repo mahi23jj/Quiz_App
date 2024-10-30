@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:2:5-33:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\664ec914514dacc22a654b7cfdb5255f\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\664ec914514dacc22a654b7cfdb5255f\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\cc8198d597b3f5152a198249b46fd0ef\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\cc8198d597b3f5152a198249b46fd0ef\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\f271ed333728a57bb97e87ca53c315c4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\f271ed333728a57bb97e87ca53c315c4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\solom\.gradle\caches\8.9\transforms\b928dd398df4ff2553c4a1a9022400b2\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\664ec914514dacc22a654b7cfdb5255f\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\c46bb059665fe9c25fd2c4cbb0f6c10a\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\solom\.gradle\caches\8.9\transforms\1ad1c1d1c7062871a36a27ed77260251\transformed\jetified-activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\aa754cc1cf9c873af2e08108e1c41137\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\f018fe8cc5b3ace76485aeb735df0296\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\fcd03c84ff3a52e22d096db8f80caa4b\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\607dc0e7c80d904b8a894b77ecdca6af\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\b7165d74acd9d46555ba7c629e448232\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\310c399031396c53a9eb4b90fd1eca92\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\f3ef114a4b40c06219c3195314cedcb0\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\c60a5616419fd7dfd9f3ea268e7590d3\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\3a65301bc85ccb28f17363458cbca2ca\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\c14a1feef8bc0f09de798ef62f299a7d\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\solom\.gradle\caches\8.9\transforms\e8bdcbc2dc47a7423eb08266beac44e1\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\solom\.gradle\caches\8.9\transforms\8ab5b59951b2211536ef1227486382d5\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\cc8198d597b3f5152a198249b46fd0ef\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\fc092251d55b5e00a4919750033c0349\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\af710c0619af9aaa5cfa6611a56b3a6e\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\f271ed333728a57bb97e87ca53c315c4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\761cf1b6e4487660700357e5b8f8e430\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\ccd694ee04948b861a0eb90f51640574\transformed\jetified-core-1.0.0\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:39:5-44:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:41:21-70
+data
+ADDED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml:42:19-48
+uses-sdk
+INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\solom\.gradle\caches\8.9\transforms\b928dd398df4ff2553c4a1a9022400b2\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\solom\.gradle\caches\8.9\transforms\b928dd398df4ff2553c4a1a9022400b2\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\664ec914514dacc22a654b7cfdb5255f\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\664ec914514dacc22a654b7cfdb5255f\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\c46bb059665fe9c25fd2c4cbb0f6c10a\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\c46bb059665fe9c25fd2c4cbb0f6c10a\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\solom\.gradle\caches\8.9\transforms\1ad1c1d1c7062871a36a27ed77260251\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\solom\.gradle\caches\8.9\transforms\1ad1c1d1c7062871a36a27ed77260251\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\aa754cc1cf9c873af2e08108e1c41137\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\aa754cc1cf9c873af2e08108e1c41137\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\f018fe8cc5b3ace76485aeb735df0296\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\f018fe8cc5b3ace76485aeb735df0296\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\fcd03c84ff3a52e22d096db8f80caa4b\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\fcd03c84ff3a52e22d096db8f80caa4b\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\607dc0e7c80d904b8a894b77ecdca6af\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\607dc0e7c80d904b8a894b77ecdca6af\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\b7165d74acd9d46555ba7c629e448232\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\b7165d74acd9d46555ba7c629e448232\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\310c399031396c53a9eb4b90fd1eca92\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\310c399031396c53a9eb4b90fd1eca92\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\f3ef114a4b40c06219c3195314cedcb0\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\f3ef114a4b40c06219c3195314cedcb0\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\c60a5616419fd7dfd9f3ea268e7590d3\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\c60a5616419fd7dfd9f3ea268e7590d3\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\3a65301bc85ccb28f17363458cbca2ca\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\3a65301bc85ccb28f17363458cbca2ca\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\c14a1feef8bc0f09de798ef62f299a7d\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\c14a1feef8bc0f09de798ef62f299a7d\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\solom\.gradle\caches\8.9\transforms\e8bdcbc2dc47a7423eb08266beac44e1\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\solom\.gradle\caches\8.9\transforms\e8bdcbc2dc47a7423eb08266beac44e1\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\solom\.gradle\caches\8.9\transforms\8ab5b59951b2211536ef1227486382d5\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\solom\.gradle\caches\8.9\transforms\8ab5b59951b2211536ef1227486382d5\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\cc8198d597b3f5152a198249b46fd0ef\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\cc8198d597b3f5152a198249b46fd0ef\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\fc092251d55b5e00a4919750033c0349\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\fc092251d55b5e00a4919750033c0349\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\af710c0619af9aaa5cfa6611a56b3a6e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\af710c0619af9aaa5cfa6611a56b3a6e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\f271ed333728a57bb97e87ca53c315c4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\f271ed333728a57bb97e87ca53c315c4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\761cf1b6e4487660700357e5b8f8e430\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\761cf1b6e4487660700357e5b8f8e430\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\ccd694ee04948b861a0eb90f51640574\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\ccd694ee04948b861a0eb90f51640574\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\solom\flutter project\quiz\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\solom\flutter project\quiz\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\solom\flutter project\quiz\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\664ec914514dacc22a654b7cfdb5255f\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\664ec914514dacc22a654b7cfdb5255f\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\664ec914514dacc22a654b7cfdb5255f\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\664ec914514dacc22a654b7cfdb5255f\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\664ec914514dacc22a654b7cfdb5255f\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\664ec914514dacc22a654b7cfdb5255f\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.quiz.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.quiz.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\solom\.gradle\caches\8.9\transforms\5b569f8f7d95ef73ca64ef6488231121\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\cc8198d597b3f5152a198249b46fd0ef\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\cc8198d597b3f5152a198249b46fd0ef\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\solom\.gradle\caches\8.9\transforms\7a95742e6dddb8d88b035487156be9f2\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\solom\.gradle\caches\8.9\transforms\22ce903b535e3359ef33eadd0f86ef6d\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
